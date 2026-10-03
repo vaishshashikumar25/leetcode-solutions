@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
