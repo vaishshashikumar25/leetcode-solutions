@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
