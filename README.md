@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
