@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0136-single-number) |
 ## Greedy
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
