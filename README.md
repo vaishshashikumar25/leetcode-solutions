@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/vaishshashikumar25/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
